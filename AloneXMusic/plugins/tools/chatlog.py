@@ -7,11 +7,11 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from AloneXMusic import app  
 
 photo = [
-    "https://telegra.ph/file/1949480f01355b4e87d26.jpg",
-    "https://telegra.ph/file/3ef2cc0ad2bc548bafb30.jpg",
-    "https://telegra.ph/file/a7d663cd2de689b811729.jpg",
-    "https://telegra.ph/file/6f19dc23847f5b005e922.jpg",
-    "https://telegra.ph/file/2973150dd62fd27a3a6ba.jpg",
+    "",
+    "",
+    "",
+    "",
+    "",
 ]
 
 
@@ -60,13 +60,13 @@ async def _greet(_, message):
             count = await app.get_chat_members_count(chat.id)
 
             msg = (
-                f"🌷{member.id}𝐖ᴇʟᴄᴏᴍᴇ 𝐈ɴ ᴀ 𝐍ᴇᴡ 𝐆ʀᴏᴜᴘ🥳\n\n"
-                f"📌𝐂ʜᴀᴛ 𝐍ᴀᴍᴇ: {message.chat.title}\n"
-                f"🔐𝐂ʜᴀᴛ 𝐔.𝐍: @{message.chat.username}\n"
-                f"💖𝐔ʀ 𝐈d: {member.id}\n"
-                f"✍️𝐔ʀ 𝐔.𝐍aмe: @{member.username}\n"
-                f"👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ {count} 𝐌ᴇᴍʙᴇʀ𝐬🎉"
+                f"{member.id}ᴡᴇʟᴄᴏᴍᴇ ɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ\n\n"
+                f"๏  ᴄʜᴀᴛ ɴᴀᴍᴇ ➛ {message.chat.title}\n"
+                f"๏  ᴄʜᴀᴛ ᴜ.ɴ. ➛ @{message.chat.username}\n"
+                f"๏  ᴜsᴇʀ ɪᴅ ➛ {member.id}\n"
+                f"๏  ᴜsᴇʀ ɴᴀᴍᴇ ➛ @{member.username}\n"
+                f"๏ ᴊᴏɪɴᴇᴅ ɴᴏ. ➛ {count} "
             )
             await app.send_photo(message.chat.id, photo=random.choice(photo), caption=msg, reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton(f"🥺𝐊ɪᴅɴᴀᴘ 𝐌ᴇ🥺", url=f"https://t.me/{app.username}?startgroup=true")]
+            [InlineKeyboardButton(f"ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ", url=f"https://t.me/{app.username}?startgroup=true")]
          ]))
