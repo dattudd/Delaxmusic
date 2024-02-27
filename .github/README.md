@@ -10,7 +10,7 @@
 </div>
 
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗠𝗘𝗟𝗔𝗡𝗜𝗔 𝗠𝗨𝗦𝗜𝗖](https://t.me/Melaniarobot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [)**
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
@@ -65,11 +65,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/SHIVANSH39"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/FUN_HERE"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/mastiwithfriendsx"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/FUN_HERE"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
